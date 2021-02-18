@@ -123,3 +123,18 @@ body {
 .bg-color-section {
   background-color: #071629;
 }
+
+
+/* Footer */
+.logo-smile {
+  width: auto;
+  height: 30px;
+  margin-right: 15px;
+}
+.logo-words {
+  width: auto;
+  height: 30px;
+}
+.social {
+  fill: white;
+}
