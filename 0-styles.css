@@ -1,0 +1,80 @@
+:root {
+  --primary: #c271ff;
+  --font-family-base: "Source Sans Pro", sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  color: var(--dark);
+  font-family: 'Open Sans', sans-serif;
+  overflow-x: hidden;
+}
+
+
+/* Navbar */
+.navbar {
+  border-bottom: none;
+  background-color: transparent;
+  font-family: var(--font-family-base);
+  position: absolute;
+}
+.smile-face {
+  width: 36px;
+}
+.logo-text {
+  width: 114px;
+}
+.btn-primary {
+  background-color: var(--primary);
+  font-family: var(--font-family-base);
+  filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.5));
+}
+.btn-primary:hover {
+  background-color: var(--primary);
+  opacity: 0.9;
+}
+
+
+/* header */
+.header-section {
+  background-image: url(images/pic_1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  width: 100%;
+  height: auto;
+  min-height: 35rem;
+  padding: 15rem 0;
+}
+.container {
+  margin-top: 8rem;
+}
+.subtitle {
+  margin-top: 10rem;
+  font-size: 32px;
+  font-weight: 300px;
+  font-family: var(--font-family-base);
+}
+.learn {
+  color: var(--primary);
+  font-family: var(--font-family-base);
+}
+@media screen and (max-width: 500px) {
+  .container h1.title {
+    font-size: 4rem;
+  }
+}
+
+
+/* Cards */
+.card-deck {
+  margin-top: 5.5rem;
+}
+.card {
+  border-color: transparent;
+  background-color: transparent;
+}
+.card-img-top {
+  width: 12rem;
+}
