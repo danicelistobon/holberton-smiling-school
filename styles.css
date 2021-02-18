@@ -78,3 +78,23 @@ body {
 .card-img-top {
   width: 12rem;
 }
+
+
+/* Carrousel */
+.testimonials {
+  background-color: #c271ff;
+}
+#testimonial-carousel .carousel-item {
+  width: 100%;
+  height: auto;
+  min-height: 300px;
+  background-color: #c271ff;
+}
+#testimonial-carousel .carousel-item img {
+  width: 20%;
+  margin-left: 15%;
+}
+#testimonial-carousel .carousel-item .testimonial-text {
+  margin-left: 2rem;
+  width: 50%;
+}
