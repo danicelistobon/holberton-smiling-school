@@ -117,3 +117,9 @@ body {
 .tutorial-author span, .tutorial-info span {
   color: #c271ff;
 }
+
+
+/* background-color section */
+.bg-color-section {
+  background-color: #071629;
+}
