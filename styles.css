@@ -98,3 +98,22 @@ body {
   margin-left: 2rem;
   width: 50%;
 }
+
+
+/* videos */
+.video {
+  position: relative;
+}
+.play-btn {
+  width: 20%;
+  height: auto;
+  position: absolute;
+  left: 40%;
+  top: 36%;
+}
+.tutorial-author img {
+  width: 15%;
+}
+.tutorial-author span, .tutorial-info span {
+  color: #c271ff;
+}
