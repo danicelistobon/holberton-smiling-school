@@ -30,6 +30,28 @@ For this project, you will need: fonts from Google, JQuery, Bootstrap CSS/JS
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 ```
 
+<hr>
+
+## Files
+
+| File | Description |
+| ------ | ------ |
+| 0-homepage.html | Create the header/hero piece |
+| 1-homepage.html | Create the section “Carousel of quotes” |
+| 2-homepage.html | Create the section “Most popular tutorials” |
+| 3-homepage.html | Create the section “Free membership” |
+| 4-homepage.html | Create the section “Latest videos” |
+| homepage.html | Create the footer |
+| 0-pricing.html | Create the header/hero piece |
+| 1-pricing.html | Create the prices grid |
+| 2-pricing.html | Create the Carousel of quotes |
+| 3-pricing.html | Create the FAQ grid |
+| pricing.html | Create the footer |
+| 0-courses.html | Create the header/hero piece |
+| 1-courses.html | Create the search filters section |
+| 2-courses.html | Create the result section of courses |
+| courses.html | Create the footer |
+
 ### :octocat: Author
 
 [Daniel Celis Tobon](https://github.com/danicelistobon)
